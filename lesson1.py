@@ -10,3 +10,4 @@ print ("You are", age,"years old" )
 color= input ("What is your favorite color?")
 #print out favorite food
 print("your favorite color is",color )
+#lets do some practice
